@@ -278,7 +278,7 @@ def delivery_status_of_all(truckload, from_time, to_time):
 
 class Main:
     header = "___________________________________________"
-    welcome_mess = "Welcome to the Western Governors University"
+    welcome_mess = "Welcome to the Western Governors University Parcel Service"
     footer = "___________________________________________"
     print(header)
     print(welcome_mess)
